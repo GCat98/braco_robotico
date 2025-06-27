@@ -1,14 +1,14 @@
 # 🤖 Controle de Braço Robótico com Arduino via Bluetooth
 
-Este projeto permite o **controle remoto de um braço robótico** com 4 servos motores (Base, Ombro, Cotovelo, Garra) utilizando **comunicação Bluetooth** com um módulo como HC-05 ou HC-06.
+Este projeto permite o **controle remoto de um braço robótico** com 4 servos motores (Base, Ombro, Cotovelo, Garra) utilizando **comunicação Bluetooth** com um módulo como HC-05.
 
 ---
 
 ## 📦 Componentes Utilizados
 
-- Arduino Uno (ou compatível)  
-- 4 Servos motores (SG90 ou MG996R, por exemplo)  
-- Módulo Bluetooth HC-05 ou HC-06  
+- Arduino Uno 
+- 4 Servos motores (SG90) 
+- Módulo Bluetooth HC-05)
 - Fonte externa para os servos (recomendado)  
 - Jumpers macho-macho  
 - Protoboard (opcional)  
@@ -67,9 +67,9 @@ Formato: **[ServoID][Ângulo]**
 
 ---
 
-## 📷 Imagem (Opcional)
+## 📷 Imagem 
 
-> Adicione aqui uma imagem do braço robótico em funcionamento ou do circuito montado.
+> ![Esquema do circuito](./Esquema/braco_bluetooth_esquema.jpg)
 
 ---
 
