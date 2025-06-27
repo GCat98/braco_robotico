@@ -69,7 +69,7 @@ Formato: **[ServoID][Ângulo]**
 
 ## 📷 Imagem 
 
-> ![Esquema do circuito](./Esquema/braco_bluetooth_esquema.jpg)
+> ![Esquema do circuito](https://github.com/user-attachments/assets/1168fdaa-037a-4eee-9a82-6436d6437d55)
 
 ---
 
